@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Swipe tab</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="events">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>blabla1</item>
+        <item>blabla2</item>
+        <item>blabla3</item>
+
+    </string-array>
+</resources>
